@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <!--About Me-->
 - :technologist: Currently working on **`Frontend Development`**
+- :computer: Main language: **`JavaScript`**
+- :books: Passionate for learning and exploring new technologies
+- :school_satchel: I believe in always giving my best and loves what I do
+- :nerd_face: Always believe **'If you can imagine it, you can program it'**
 
 <!--Skills-->
 <h3 align="left">Languages and Tools:</h3>

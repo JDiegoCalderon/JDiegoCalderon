@@ -24,6 +24,19 @@ Here are some ideas to get you started:
 - :school_satchel: I believe in always giving my best and loves what I do
 - :nerd_face: Always believe **'If you can imagine it, you can program it'**
 
+<!--
+## 📦 Toolbox
+**Frontend Development:** `Angular` `Angular Material` `TypeScript` `Next.js` `Css3` `HTML5`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Testing:** `Postman`
+
+**Database:** `Microsoft SQL Server` `MYSQL`
+
+**Others:** `Node` `Docker` `Scrum`
+-->
+
 <!--Skills-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
